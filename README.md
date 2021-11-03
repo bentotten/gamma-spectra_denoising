@@ -12,6 +12,7 @@ This repo contains python scripts for simulating clean and noisy gamma-ray spect
 * Scikit-Image
 * cvxpy
 * h5py
+* tqdm
 
 <pre>  An NVIDIA GPU: 
 
