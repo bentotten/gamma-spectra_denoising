@@ -21,6 +21,13 @@ This repo contains python scripts for simulating clean and noisy gamma-ray spect
   
 </pre>
 
+## Installation
+It is recommended to use the Anaconda package manager. 
+1. After cloning this repository, create a virtual environment with the required packages 
+`conda env create -f environment.yml`. 
+Then activate this environment with `conda activate gamma`.
+The radiation\_ppo code requires [CUDA](https://varhowto.com/install-pytorch-cuda-10-0/) and an NVIDIA GPU.
+
 # Scripts
 - gen_templates.py 
 

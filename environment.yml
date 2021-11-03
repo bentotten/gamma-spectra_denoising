@@ -1,0 +1,14 @@
+name: gamma
+channels:
+  - conda-forge
+  - anaconda
+  - pytorch
+  - numba
+dependencies:
+  - python=3.7   
+  - pip
+  - pytorch-cpu
+  - Sklearn
+  - Scikit-Image
+  - cvxpy
+  - h5py
