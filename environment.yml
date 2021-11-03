@@ -13,3 +13,6 @@ dependencies:
   - cvxpy
   - h5py
   - tqdm
+  - cudatoolkit=10.2
+  - pip:
+    - -r requirements.txt
